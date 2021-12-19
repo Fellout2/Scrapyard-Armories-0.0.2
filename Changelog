@@ -1,3 +1,70 @@
+0.0.4 OSHA Noncompliance Update, and 0.95.1a Compatability
+Added Gaia Class Superbarge
+Added Twilight Class Converted Droneship
+Added a new Capital hvb
+
+Loki
+	Spawn frequency should be fixed now, I am so sorry for the hell I created
+	OP reduced from 13 to 12
+	Damage reduced to 200 from 400
+	EMP lowered from 150 to 100
+Kilo wing
+	Crew per wing increased from 2 to 4
+Lunchbox
+	Given a Deco on the bay
+	Resprite to fix weapon discomfort
+	Hull changed from 5000 to 7500
+Splint
+	Medium mount angles adjusted to no longer fire forwards
+SplintXIV
+	Medium mount angles adjusted to no longer fire forwards
+	DP adjusted to 20 from 10, that was a typo
+	Added to XIV blueprint list
+Trocar
+	Added Rugged Construction
+	Sprite updated
+Onslaught(?)
+	Sprite updated to account for Trocar changes.
+Candela
+	Sprite changed to a resprite provided by Unit9461
+Weapon Overdrive System
+	Fixed it not actually boosting energy weapon fire rates.
+Updated Localization Files
+
+0.0.3 Hoist the Black Flag Lads!
+Autofits now have weapon groups.
+Two portraits added in, player useable
+Independents, Scavengers, and Pirates can now use Grunder wings
+Added Loki Autocannon
+Added Eclipse Class Battlecarrier
+Added Gangster Class Missile Frigate
+Added Lunchbox Class Swarm Carrier
+Added Candela Class Converted Droneship
+Purged ghosts from description csv
+Scrapship nerfs
+Min crew increased to 150 from 125
+Max crew reduced from 900 to 700
+Cargo reduced from 600 to 500
+Fuel increased from 500 to 600
+DP and supplies increased from 8 to 12
+Civillian hull added
+Borrer Drones added
+OP reduced from 110 to 75
+Mobster
+>Hull changed from 2500 to 3500, added to Pirate instead of Low Tech
+Scalpel
+>Outer synergy changed to pure missiles, less flexible but easier to decide on, 6 amb was a kinda wack potential...
+Splint XIV
+>Changed from Burn Drive to Weapon Overdrive
+Trocar
+>Finally been given a ram friendly burn drive
+0.0.2
+>Staros added, Elanus hellbore placeholder removed
+>Ship names added
+>Some tips added
+>Shilage and Grunder removed from high tech blueprint, added to remnant fleets
+>Gorget added
+>Brace sprite touched up some
 0.0.2
 >Staros added, Elanus hellbore placeholder removed
 >Ship names added
